@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="country_codes">
+        <item>+1 (US)</item>
+        <item>+2 (CA)</item>
+        <item>+3 (UK)</item>
+        <item>+4 (DE)</item>
+        <item>+5 (FR)</item>
+    </string-array>
+
+</resources>

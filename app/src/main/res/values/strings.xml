@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AuthenticationApp</string>
+    <string name="app_name1">Amptric Automotive</string>
+    <string name="amptric_automotive">Amptric Automotive</string>
+    <string name="log_in_your_account">Log-In your account</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="login">Login</string>
+    <string name="new_here_create_account">New Here? Create Account</string>
+    <string name="return_to_home">Return to Home</string>
+    <string name="amptric_automotive2">Amptric Automotive</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="gender">Gender</string>
+    <string name="email2">Email</string>
+    <string name="phone2">Phone</string>
+    <string name="full_name">Full Name</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="return_to_home2">Return to Home</string>
+    <string name="amptric_automotive3">Amptric Automotive</string>
+    <string name="Let_s_you_in">Let's you in</string>
+    <string name="signin">Signin</string>
+    <string name="register2">Register</string>
+    <string name="don_t_have_account_signup">Don't have an account? Sign up</string>
+    <string name="amptric_automotive4">Amptric Automotive</string>
+    <string name="Login">Login</string>
+    <string name="Hello_there">Hello there</string>
+    <string name="Please_enter_your_phone_number_._You_will">Please enter your phone number. You will</string>
+    <string name="receive_an_OTP_code_in_the_next_step_for_the">receive an OTP code in the next step for the</string>
+    <string name="verification_process_.">verification process.</string>
+    <string name="create_a_profile">Create a profile</string>
+</resources>

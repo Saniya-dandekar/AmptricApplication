@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:textStyle="normal"
+        android:fontFamily="@font/sans-serif" />
+    <font
+        android:textStyle="italic"
+        android:fontFamily="@font/sans-serif" />
+</font-family>
